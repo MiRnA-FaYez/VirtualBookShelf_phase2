@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VirtualBookShelf</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation bar items-->
+    <string name="profile">Profile</string>
+    <string name="books">Books</string>
+    <string name="favourite">Favourite books</string>
+    <string name="to_be_read">To be read books</string>
+    <string name="read">read books</string>
+    <string name="shelf">Shelf</string>
+
+
+
+</resources>
